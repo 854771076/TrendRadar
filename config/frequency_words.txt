@@ -6,15 +6,6 @@ web3
 特朗普
 投资
 
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
 谷歌
 google
 gemini
@@ -30,10 +21,3 @@ Anthropic
 ai
 !gai
 人工智能
-
-国产
-中国
-
-美国
-日本
-韩国
